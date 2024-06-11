@@ -1,0 +1,20 @@
+## Interface: 100205
+## Title: RokksCombatTracker
+## Author: Rokks-Sargeras
+## AddonCompartmentFunc: b35904e6bb2943c5adcfc4058c8cf6b3_func
+## SavedVariables: b35904e6bb2943c5adcfc4058c8cf6b3
+## SavedVariablesPerCharacter: b35904e6bb2943c5adcfc4058c8cf6b3_temp
+
+Lib\RokksSpellBars-1.0\RokksSpellBars.xml
+
+Core\DefaultSettings.lua
+Core\EventListener.lua
+Core\EventHandlers.lua
+Core\Initialize.lua
+Core\Localization.lua
+Core\SlashCommands.lua
+Core\Utilities.lua
+Core\FrameFactory.lua
+Modules\Default.lua
+
+RokksCombatTracker.lua
